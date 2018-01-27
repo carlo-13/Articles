@@ -6,3 +6,4 @@ This is the unofficial repo for the MODX blogging extra Articles.
 
 
 26/01/2018 => Changed the default template to Bootstrap 4
+Next Step => Use PdoTools instead of getresources/getpage
